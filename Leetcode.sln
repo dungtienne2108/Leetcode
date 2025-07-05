@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "Palindr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{20E02112-AB12-473D-AB42-69A744DEB435}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedList", "MergeTwoSortedList\MergeTwoSortedList.csproj", "{E6A4EBFC-4C7D-40F8-8198-9E918F500EE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{20E02112-AB12-473D-AB42-69A744DEB435}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20E02112-AB12-473D-AB42-69A744DEB435}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20E02112-AB12-473D-AB42-69A744DEB435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A4EBFC-4C7D-40F8-8198-9E918F500EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A4EBFC-4C7D-40F8-8198-9E918F500EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A4EBFC-4C7D-40F8-8198-9E918F500EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A4EBFC-4C7D-40F8-8198-9E918F500EE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
