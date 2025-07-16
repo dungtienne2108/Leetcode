@@ -33,13 +33,14 @@
                 }
                 prevValue = currentValue;
             }
+
             return total;
 
         }
 
         static void Main(string[] args)
         {
-            string s = "LVIII";
+            string s = "MCMXCIV";
             int result = RomanToInt(s);
             Console.WriteLine($"Số {s} sau khi chuyển đổi là: {result}");
         }
