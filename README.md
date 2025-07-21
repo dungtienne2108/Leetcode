@@ -10,8 +10,9 @@ Mỗi thư mục tương ứng với một bài.
 - [x] 3. Integer To Roman
 - [x] 4. Longest Common Prefix
 - [x] 5. Longest Substring Without Repeating Characters
-- [x] 6. Merge Two Sorted List
-- [x] 7. Palindrome Number
-- [x] 8. Readme Generator
-- [x] 9. Roman To Int
-- [x] 10. Two Sum
+- [x] 6. Merge K Sorted Lists
+- [x] 7. Merge Two Sorted List
+- [x] 8. Palindrome Number
+- [x] 9. Readme Generator
+- [x] 10. Roman To Int
+- [x] 11. Two Sum
