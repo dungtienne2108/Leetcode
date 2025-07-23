@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMostWater", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeKSortedLists", "MergeKSortedLists\MergeKSortedLists.csproj", "{C681F36D-3DDC-463E-8AD3-8294BDE90B3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{C7D4EE3D-809C-4D0E-85B4-818075F93A8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{C681F36D-3DDC-463E-8AD3-8294BDE90B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C681F36D-3DDC-463E-8AD3-8294BDE90B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C681F36D-3DDC-463E-8AD3-8294BDE90B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D4EE3D-809C-4D0E-85B4-818075F93A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D4EE3D-809C-4D0E-85B4-818075F93A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D4EE3D-809C-4D0E-85B4-818075F93A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D4EE3D-809C-4D0E-85B4-818075F93A8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,13 +6,14 @@ Mỗi thư mục tương ứng với một bài.
 ## 📌 Danh sách bài đã làm
 
 - [x] 1. Add Two Numbers
-- [x] 2. Container With Most Water
-- [x] 3. Integer To Roman
-- [x] 4. Longest Common Prefix
-- [x] 5. Longest Substring Without Repeating Characters
-- [x] 6. Merge K Sorted Lists
-- [x] 7. Merge Two Sorted List
-- [x] 8. Palindrome Number
-- [x] 9. Readme Generator
-- [x] 10. Roman To Int
-- [x] 11. Two Sum
+- [x] 2. Binary Search
+- [x] 3. Container With Most Water
+- [x] 4. Integer To Roman
+- [x] 5. Longest Common Prefix
+- [x] 6. Longest Substring Without Repeating Characters
+- [x] 7. Merge K Sorted Lists
+- [x] 8. Merge Two Sorted List
+- [x] 9. Palindrome Number
+- [x] 10. Readme Generator
+- [x] 11. Roman To Int
+- [x] 12. Two Sum
