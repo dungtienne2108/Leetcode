@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeKSortedLists", "MergeK
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{C7D4EE3D-809C-4D0E-85B4-818075F93A8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedianOfTwoSortedArrays", "MedianOfTwoSortedArrays\MedianOfTwoSortedArrays.csproj", "{F00B0BE4-04C5-4074-803A-B1BDC08A61AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{C7D4EE3D-809C-4D0E-85B4-818075F93A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7D4EE3D-809C-4D0E-85B4-818075F93A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7D4EE3D-809C-4D0E-85B4-818075F93A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F00B0BE4-04C5-4074-803A-B1BDC08A61AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00B0BE4-04C5-4074-803A-B1BDC08A61AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00B0BE4-04C5-4074-803A-B1BDC08A61AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00B0BE4-04C5-4074-803A-B1BDC08A61AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
