@@ -3,31 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{E1E59EC0-5DFA-4B35-96F5-146AAF7A5C14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-TwoSum", "TwoSum\1-TwoSum.csproj", "{E1E59EC0-5DFA-4B35-96F5-146AAF7A5C14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInt", "RomanToInt\RomanToInt.csproj", "{F34F62F4-633D-43D6-BF2B-7D2B8BA147C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-RomanToInteger", "RomanToInt\13-RomanToInteger.csproj", "{F34F62F4-633D-43D6-BF2B-7D2B8BA147C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{1BCF9A26-9B64-4E00-BBE3-923C49F6E1C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-PalindromeNumber", "PalindromeNumber\9-PalindromeNumber.csproj", "{1BCF9A26-9B64-4E00-BBE3-923C49F6E1C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{20E02112-AB12-473D-AB42-69A744DEB435}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-LongestCommonPrefix", "LongestCommonPrefix\14-LongestCommonPrefix.csproj", "{20E02112-AB12-473D-AB42-69A744DEB435}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedList", "MergeTwoSortedList\MergeTwoSortedList.csproj", "{E6A4EBFC-4C7D-40F8-8198-9E918F500EE9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-MergeTwoSortedList", "MergeTwoSortedList\21-MergeTwoSortedList.csproj", "{E6A4EBFC-4C7D-40F8-8198-9E918F500EE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerToRoman", "IntegerToRoman\IntegerToRoman.csproj", "{2CF402C7-A331-48FC-B40A-295FF5198FE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-IntegerToRoman", "IntegerToRoman\12-IntegerToRoman.csproj", "{2CF402C7-A331-48FC-B40A-295FF5198FE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoNumbers", "AddTwoNumbers\AddTwoNumbers.csproj", "{DFDBC3C6-E465-4A39-B456-C3C31C0EEE14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-AddTwoNumbers", "AddTwoNumbers\2-AddTwoNumbers.csproj", "{DFDBC3C6-E465-4A39-B456-C3C31C0EEE14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubstringWithoutRepeatingCharacters", "LongestSubstringWithoutRepeatingCharacters\LongestSubstringWithoutRepeatingCharacters.csproj", "{1665414C-77DC-4230-9A65-636A3586E658}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-LongestSubstringWithoutRepeatingCharacters", "LongestSubstringWithoutRepeatingCharacters\3-LongestSubstringWithoutRepeatingCharacters.csproj", "{1665414C-77DC-4230-9A65-636A3586E658}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadmeGenerator", "ReadmeGenerator\ReadmeGenerator.csproj", "{D528DA0F-749C-4524-BDC7-CA85DE4B37E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{1CEF45C9-15E1-4491-A0C8-21298599ED6D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-ContainerWithMostWater", "ContainerWithMostWater\11-ContainerWithMostWater.csproj", "{1CEF45C9-15E1-4491-A0C8-21298599ED6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeKSortedLists", "MergeKSortedLists\MergeKSortedLists.csproj", "{C681F36D-3DDC-463E-8AD3-8294BDE90B3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23-MergeKSortedLists", "MergeKSortedLists\23-MergeKSortedLists.csproj", "{C681F36D-3DDC-463E-8AD3-8294BDE90B3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{C7D4EE3D-809C-4D0E-85B4-818075F93A8B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "704-BinarySearch", "BinarySearch\704-BinarySearch.csproj", "{C7D4EE3D-809C-4D0E-85B4-818075F93A8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedianOfTwoSortedArrays", "MedianOfTwoSortedArrays\MedianOfTwoSortedArrays.csproj", "{F00B0BE4-04C5-4074-803A-B1BDC08A61AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-MedianOfTwoSortedArrays", "MedianOfTwoSortedArrays\4-MedianOfTwoSortedArrays.csproj", "{F00B0BE4-04C5-4074-803A-B1BDC08A61AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
