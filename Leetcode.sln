@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "704-BinarySearch", "BinaryS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-MedianOfTwoSortedArrays", "MedianOfTwoSortedArrays\4-MedianOfTwoSortedArrays.csproj", "{F00B0BE4-04C5-4074-803A-B1BDC08A61AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-3Sum", "15-3Sum\15-3Sum.csproj", "{E6BCF1E3-5DC7-4EE3-8ABA-DCA9FF241BDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "206-ReverseLinkedList", "206-ReverseLinkedList\206-ReverseLinkedList.csproj", "{FBE7482C-EFDD-4E3E-9A58-A7A873273E4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{F00B0BE4-04C5-4074-803A-B1BDC08A61AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F00B0BE4-04C5-4074-803A-B1BDC08A61AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F00B0BE4-04C5-4074-803A-B1BDC08A61AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6BCF1E3-5DC7-4EE3-8ABA-DCA9FF241BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6BCF1E3-5DC7-4EE3-8ABA-DCA9FF241BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6BCF1E3-5DC7-4EE3-8ABA-DCA9FF241BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6BCF1E3-5DC7-4EE3-8ABA-DCA9FF241BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBE7482C-EFDD-4E3E-9A58-A7A873273E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE7482C-EFDD-4E3E-9A58-A7A873273E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE7482C-EFDD-4E3E-9A58-A7A873273E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE7482C-EFDD-4E3E-9A58-A7A873273E4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
